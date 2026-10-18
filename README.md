@@ -25,7 +25,7 @@ and powered by a 3v coin cell battery. I was inspired by those images of the yel
 
 ## 3D View
 ![Front](images/3D_1.png)
-![Back](images/3D_2.png)
+![Back](images/3d_2.png)
 
 ## Slack
 @ant.tenn4
