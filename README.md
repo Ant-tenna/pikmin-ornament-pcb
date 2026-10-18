@@ -18,13 +18,14 @@ and powered by a 3v coin cell battery. I was inspired by those images of the yel
 | Resistor | 47kΩ | 1 |
 
 ## Schematic
-![Schematic](images/schematic.png)
+![Schematic](images/schematics.png)
 
 ## PCB
 ![PCB](images/pcb.png)
 
 ## 3D View
-![3D](images/3D.png)
+![Front](images/3D_1.png)
+![Back](images/3D_2.png)
 
 ## Slack
 @ant.tenn4
