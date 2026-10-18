@@ -8,10 +8,10 @@ and powered by a 3v coin cell battery. I was inspired by those images of the yel
 
 | component | Value | Quantity |
 |------|-------|----------|
-| 555 timer | | 1 |
-| Coin cell battery holder | | 1 |
+| 555 timer | - | 1 |
+| Coin cell battery holder | - | 1 |
 | Capacitor | (10µF) | 1 |
-| 5mm LED | | 4 |
+| 5mm LED | - | 4 |
 | Not polarized capacitor |(100nF) | 1 |
 | Resistor | 470Ω | 4 |
 | Resistor | 4.7kΩ | 1 |
