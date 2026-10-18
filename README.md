@@ -6,7 +6,7 @@ and powered by a 3v coin cell battery. I was inspired by those images of the yel
 
 ## BOM
 
-| component | Value | Quantity |
+| Component | Value | Quantity |
 |------|-------|----------|
 | 555 timer | - | 1 |
 | Coin cell battery holder | - | 1 |
@@ -27,5 +27,5 @@ and powered by a 3v coin cell battery. I was inspired by those images of the yel
 ![Front](images/3D_1.png)
 ![Back](images/3d_2.png)
 
-## Slack
+### Slack
 @ant.tenn4
